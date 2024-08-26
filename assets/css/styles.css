@@ -1,0 +1,16 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+
+header {
+  background-image: url('../imgs/bg-hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
