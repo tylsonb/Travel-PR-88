@@ -1,0 +1,49 @@
+.targets-hospedaje {
+  margin: 50px;
+}
+.hotel-card {
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.hotel-card .location-info {
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+.hotel-card .location-info span {
+  margin-left: 0.5rem;
+}
+
+.hotel-card img {
+  width: 350px;
+  height: auto;
+  border-radius: 1rem;
+  padding: 10px;
+}
+.hotel-card .card-body {
+  padding: 1rem;
+}
+.hotel-card .rating {
+  display: flex;
+  align-items: center;
+}
+.hotel-card .rating span {
+  margin-left: 0.5rem;
+}
+.hotel-card .btn {
+  margin-top: 1rem;
+}
+
+.icon-geo {
+  color: green;
+}
+
+.icon-star {
+  color: gold;
+}
