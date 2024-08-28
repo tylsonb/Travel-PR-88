@@ -6,6 +6,10 @@ body {
   background-color: #ffffff;
 }
 
+.card-img-top {
+  height: 350px;
+}
+
 header {
   background-image: url('../imgs/bg-hero.jpg');
   background-repeat: no-repeat;
@@ -13,6 +17,17 @@ header {
   background-position: left;
   padding-bottom: 10rem;
 }
+
+.container-0 {
+  display: flex;
+  justify-content: center;
+}
+
+.container-0 h1 {
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 30px;
+}
+
 .targets-hospedaje {
   margin: 50px;
 }
