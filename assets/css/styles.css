@@ -62,3 +62,12 @@ header {
 .icon-star {
   color: gold;
 }
+
+.big {
+  font-size: 90px;
+}
+.center-card {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}
